@@ -1,0 +1,10 @@
+2020-03-22 00:01:25{"funcao":"OnServiceInitiatedEvent","deviceID":"9001","callId":"7113","devType":"0","monitorCrossRefId":"1"}
+2020-03-22 00:01:28{"funcao":"OnConnectionCleared","droppedConnectionCallID":"7113","droppedConnectionDeviceID":"9001"}
+2020-03-22 00:01:33{"funcao":"OnSetAgentStateConf"}
+2020-03-22 00:01:59{"funcao":"OnCSTAMakeCallConf","newCallId":"7114"}
+2020-03-22 00:02:00{"funcao":"OnServiceInitiatedEvent","deviceID":"9001","callId":"7114","devType":"0","monitorCrossRefId":"1"}
+2020-03-22 00:02:00{"funcao":"OnOriginatedEvent","originatedConnection_deviceID":"9001","OriginatedCallId":"7114","OriginatedDevIDType":"0","callingDevice_deviceID":"9001","CallingdeviceIDType":"55","CallingdeviceIDStatus":"0","calledDevice_deviceID":"071982247277","calledDevicedeviceIDType":"20","calledDevicedeviceIDStatus":"0","localConnectionInfo":"1","cause":"22","logicalAgent":"10537","uui":"","consultMode":"138080604","monitorCrossRefId":"1"}
+2020-03-22 00:02:02{"funcao":"OnCSTADelivered","alertingDevice":"T7114#2","calledDevice":"03171982247277","callingDevice":"9001","cause":"22","connectionCallId":"7114","split":"","userEnteredCode":"","userInfo":"","ucid":"00001071141584846118"}
+2020-03-22 00:02:05{"funcao":"OnOriginatedEvent","connection_deviceID":"T7114#2","connectionCallId":"7114","connectionDevIDType":"1","trunkUsed_deviceID":"","trunkUsedDeviceDevIDType":"30","trunkUsedDeviceIDStatus":"2","calledDevice_deviceID":"03171982247277","calledDeviceDevIDType":"20","calledDeviceIDStatus":"0","localConnectionInfo":"3","cause":"-1","progressLocation":"4","progressDescription":"4","trunkGroup":"","trunkMember":"","monitorCrossRefId":"1"}
+2020-03-22 00:02:08{"funcao":"OnCSTAEstablished","answeringDevice":"","called":"03171982247277","callID":"7114","calling":"9001","cause":"22","split":"","userEnteredCode":"","userInfo":"","ucid":"00001071141584846118"}
+2020-03-22 00:03:15{"funcao":"OnATTSingleStepTransferCallConf","invokeId":"0","newCallDevice":"24060","newCallId":"7115","ucid":""}

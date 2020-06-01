@@ -1,0 +1,104 @@
+2020-03-22 00:02:02SelectSkillName: 
+2020-03-22 00:02:02RETURN: 
+2020-03-22 00:02:27SelectBySkill: 
+2020-03-22 00:02:27QUERY:  select vdn, vdn_callback, description from vdn 
+2020-03-22 00:02:27Carregando lista de transferencia dinamica
+2020-03-22 00:02:27Index: 1, Descricao: Atendimento Pré Pago
+2020-03-22 00:02:27Index: 2, Descricao: Contas_Oic
+2020-03-22 00:02:27Index: 3, Descricao: Servicos_Oi
+2020-03-22 00:02:27Index: 4, Descricao: Troca de Cartão Oi Controle
+2020-03-22 00:02:27Index: 5, Descricao: Atendimento Oi Total & OCT R1 e R3
+2020-03-22 00:02:27Index: 6, Descricao: Atendimento Pós Pago/3G (Oi Internet Móvel)
+2020-03-22 00:02:27Index: 7, Descricao: Retenção Oi Controle
+2020-03-22 00:02:27Index: 8, Descricao: Atendimento Oi Total & OCT R2
+2020-03-22 00:02:27Index: 9, Descricao: UTC Fraude (N Comprei Oi E/Ou Flag De Fraude)
+2020-03-22 00:02:27Index: 10, Descricao: Blindagem Anatel
+2020-03-22 00:02:27Index: 11, Descricao: Ilha de migração Pós Pago
+2020-03-22 00:02:27Index: 12, Descricao: Retenção 3G
+2020-03-22 00:02:27Index: 13, Descricao: Retenção Pos Pago
+2020-03-22 00:02:27Index: 14, Descricao: Suporte técnico/célula de dados (black berry, Iphone e Ipad)
+2020-03-22 00:02:27Index: 15, Descricao: Utc - Contas Pagas E Não Baixadas Móvel
+2020-03-22 00:02:27Index: 16, Descricao: UTC Fraude
+2020-03-22 00:02:27Index: 17, Descricao: Atendimento Oi Total & OCT - Contas
+2020-03-22 00:02:27Index: 18, Descricao: Atendimento Pós Pago/3G (Oi Internet Móvel)
+2020-03-22 00:02:27Index: 19, Descricao: 3G (SAC Contas)
+2020-03-22 00:02:27Index: 20, Descricao: Atendimento Oi Controle
+2020-03-22 00:02:27Index: 21, Descricao: Atendimento Pré-pago  - Contas
+2020-03-22 00:02:27Index: 22, Descricao: Suporte Técnico Móvel
+2020-03-22 00:02:27Index: 23, Descricao: Suporte Técnico Móvel
+2020-03-22 00:02:27Index: 24, Descricao:     
+2020-03-22 00:02:27Index: 25, Descricao:            
+2020-03-22 00:02:27Index: 26, Descricao: Retenção OCT
+2020-03-22 00:02:27Index: 27, Descricao: Retencao OI Total
+2020-03-22 00:02:27Index: 28, Descricao: UTC - Fraude
+2020-03-22 00:02:27Index: 29, Descricao: Atendimento Oi Total
+2020-03-22 00:02:27Index: 30, Descricao: Desconhece Linha
+2020-03-22 00:02:27Index: 31, Descricao: Ilha de Downgrade Oi Total
+2020-03-22 00:02:27Index: 32, Descricao: Retenção Oi Total Móvel
+2020-03-22 00:02:27Index: 33, Descricao: Retenção Oi Total Residencial
+2020-03-22 00:02:27Index: 34, Descricao: Suporte Técnico Móvel
+2020-03-22 00:02:27Index: 35, Descricao: Suporte Técnico TV
+2020-03-22 00:02:27Index: 36, Descricao: Atendimento Oi Conta Total R2
+2020-03-22 00:02:27Index: 37, Descricao: Suporte Técnico Velox R2
+2020-03-22 00:02:27Index: 38, Descricao: ACP Móvel
+2020-03-22 00:02:27Index: 39, Descricao: UTC Fraude
+2020-03-22 00:02:27Index: 40, Descricao: Retenção TV
+2020-03-22 00:02:27Index: 41, Descricao: Retenção Pós Pago
+2020-03-22 00:02:27Index: 42, Descricao: Ilha de Downgrade Oi Total Residencial
+2020-03-22 00:02:27Index: 43, Descricao: Retenção Fixo e Velox LD/SD R1
+2020-03-22 00:02:27Index: 44, Descricao: Migração – Rentabilização
+2020-03-22 00:02:27Index: 45, Descricao: ST Especializado
+2020-03-22 00:02:27SelectSupervisorTransf
+2020-03-22 00:02:27QUERY:  select extension, name from supervisor 
+2020-03-22 00:02:27Carregando lista de transferencia supervisor
+2020-03-22 00:02:27Index: 1, Name: SUPERVISOR - 31001
+2020-03-22 00:02:27Index: 2, Name: SUPERVISOR - 31002
+2020-03-22 00:02:27Index: 3, Name: SUPERVISOR - 31003
+2020-03-22 00:02:27Index: 4, Name: SUPERVISOR - 31004
+2020-03-22 00:02:27Index: 5, Name: SUPERVISOR - 31005
+2020-03-22 00:02:27Index: 6, Name: SUPERVISOR - 31006
+2020-03-22 00:02:27Index: 7, Name: SUPERVISOR - 31007
+2020-03-22 00:02:27Index: 8, Name: SUPERVISOR - 31008
+2020-03-22 00:02:27Index: 9, Name: SUPERVISOR - 31009
+2020-03-22 00:02:27Index: 10, Name: SUPERVISOR - 31010
+2020-03-22 00:02:27Index: 11, Name: SUPERVISOR - 31011
+2020-03-22 00:02:27Index: 12, Name: SUPERVISOR - 31012
+2020-03-22 00:02:27Index: 13, Name: SUPERVISOR - 31013
+2020-03-22 00:02:27Index: 14, Name: SUPERVISOR - 31014
+2020-03-22 00:02:27Index: 15, Name: SUPERVISOR - 31015
+2020-03-22 00:02:27Index: 16, Name: SUPERVISOR - 31016
+2020-03-22 00:02:27Index: 17, Name: SUPERVISOR - 31017
+2020-03-22 00:02:27Index: 18, Name: SUPERVISOR - 31018
+2020-03-22 00:02:27Index: 19, Name: SUPERVISOR - 31019
+2020-03-22 00:02:27Index: 20, Name: SUPERVISOR - 31020
+2020-03-22 00:02:27Index: 21, Name: SUPERVISOR - 31021
+2020-03-22 00:02:27Index: 22, Name: SUPERVISOR - 31022
+2020-03-22 00:02:27Index: 23, Name: SUPERVISOR - 31023
+2020-03-22 00:02:27Index: 24, Name: SUPERVISOR - 31024
+2020-03-22 00:02:27Index: 25, Name: SUPERVISOR - 31026
+2020-03-22 00:02:27Index: 26, Name: SUPERVISOR - 31027
+2020-03-22 00:02:27Index: 27, Name: SUPERVISOR - 31031
+2020-03-22 00:02:27Index: 28, Name: SUPERVISOR - 31032
+2020-03-22 00:02:27Index: 29, Name: SUPERVISOR - 31033
+2020-03-22 00:02:27Index: 30, Name: SUPERVISOR - 31034
+2020-03-22 00:02:27Index: 31, Name: SUPERVISOR - 31035
+2020-03-22 00:02:27Index: 32, Name: SUPERVISOR - 31036
+2020-03-22 00:02:27Index: 33, Name: SUPERVISOR - 31037
+2020-03-22 00:02:27Index: 34, Name: SUPERVISOR - 31038
+2020-03-22 00:02:27Index: 35, Name: SUPERVISOR - 31039
+2020-03-22 00:02:27Index: 36, Name: SUPERVISOR - 31040
+2020-03-22 00:02:27Index: 37, Name: SUPERVISOR - 31041
+2020-03-22 00:02:27Index: 38, Name: SUPERVISOR - 31042
+2020-03-22 00:02:27Index: 39, Name: SUPERVISOR - 31043
+2020-03-22 00:02:27Index: 40, Name: SUPERVISOR - 31050
+2020-03-22 00:02:27Index: 41, Name: SUPERVISOR - 31051
+2020-03-22 00:02:27Index: 42, Name: SUPERVISOR - 31052
+2020-03-22 00:02:27Index: 43, Name: SUPERVISOR - 31053
+2020-03-22 00:02:27Index: 44, Name: SUPERVISOR - 31054
+2020-03-22 00:02:27Index: 45, Name: SUPERVISOR - 31056
+2020-03-22 00:02:27Index: 46, Name: SUPERVISOR - 31057
+2020-03-22 00:02:27Index: 47, Name: SUPERVISOR - 31058
+2020-03-22 00:03:14SelectBySkill: 
+2020-03-22 00:03:14QUERY:  select vdn, vdn_callback, description from vdn 
+2020-03-22 00:03:14Opcao selecionada para transferencia dinamica
+2020-03-22 00:03:14Index: 27, Descricao: Retencao OI Total, VDN: 22060
